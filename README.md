@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" width="1000" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="center" width="1000" src="[https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif](https://www.psdvault.com/img/2022/04/Audio-Wave-tutorial-final.gif)">
 
 
 
