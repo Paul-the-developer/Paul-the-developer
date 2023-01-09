@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" width="4000" src="https://www.psdvault.com/img/2022/04/Audio-Wave-tutorial-final.gif">
+<img align="center" width="1800" src="https://www.psdvault.com/img/2022/04/Audio-Wave-tutorial-final.gif">
 
 
 
