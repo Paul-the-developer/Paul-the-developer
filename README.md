@@ -1,3 +1,8 @@
+<p align="center">
+<img align="center" width="1000" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
+
+
 <h1 align="center">Hi 👋, I'm Rajdeep Paul</h1>
 <h3 align="center">A passionate Full-Stack (MERN) Developer from India</h3>
 
